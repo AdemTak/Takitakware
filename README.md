@@ -7,7 +7,7 @@ Taktronic is an advanced, independent technology project dedicated to designing 
 ## 🌐 Official Platform & Ecosystem
 Discover our central hub, access technical guides, and download all official project builds directly from our main network:
 
-👉 (https://entwickler-portal-49efcd.webnode.page)
+👉 (https://entwickler-portal-49efcd.webnode.page) (Info The website is only available in German.)
 
 ---
 
