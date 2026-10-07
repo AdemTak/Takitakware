@@ -9,7 +9,7 @@ Takitakware is an advanced, independent technology project dedicated to designin
 
 Discover our central hub, access technical guides, and download all official project builds directly from our main network:
 
-👉 (https://takitakware.net) (Info: The website is currently available in German.)
+👉 (https://entwickler-portal-49efcd.webnode.page) (Info: The website is currently available in German.)
 
 
 ⚡ Complete Takitakware Project Directory
