@@ -15,9 +15,10 @@ Discover our central hub, access technical guides, and download all official pro
 
 The Takitakware project spans across multiple digital and physical computing disciplines. Here is everything we build and maintain:
 
-### 1. ⚙️ takOS & takOS mini
-* **Arduino Pro Controller OS:** We develop and maintain takOS mini (alongside our core takOS architecture). It is a specialized, ultra-lightweight operating software tailored specifically for Arduino Pro Controller environments.
+### 1. ⚙️ takOS,takOS mini & takOS core
+* **takOS mini Arduino Pro Controller OS:** We develop and maintain takOS mini (alongside our core takOS architecture). It is a specialized, ultra-lightweight operating software tailored specifically for Arduino Pro Controller environments.
 * **Hardware Optimization:** Engineered to maximize micro-controller performance, ensuring fast processing times, efficient low-level memory usage, and stable electronic control.
+* **takOS core:** takOS core: An operating system with a strong focus on data privacy, serving as the foundation for your IoT devices. The hardware requirements are minimal—a Raspberry Pi with 2 GB of RAM may even be sufficient. You have the option to add an SSH key, though it is not mandatory. It is a very promising system, though it is currently still in the beta phase; we look forward to hearing your feedback. You can choose how you wish to perform the setup: either via your browser by simply entering "takOS-core.local," or by connecting your Raspberry Pi to a monitor and configuring it directly. There are four options for setting up SSH: first, you can manually enter your SSH key as text; second, you can opt out of SSH and simply create a standard user account (with an optional password); third, you can use your Ubuntu One account by providing your email address and password; and finally, the fourth option allows your Raspberry Pi to automatically retrieve your public key from the internet. Once the setup process concludes, you will be taken to a FreeBSD terminal, where you can enter commands, manage SSH, and more. You can also use it to control compatible devices—all powered by the takOS core operating system.
 
 ### 2. 🏪 TakStore (Independent App Marketplace)
 * **Telemetry-Free App Distribution:** Our custom store platform, TakStore, serves as a clean environment to download lightweight, verified utilities without hidden trackers or commercial data mining.
